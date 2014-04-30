@@ -3,7 +3,7 @@ xbmc-addon-wilmaa
 
 Plays wilmaa live tv in xbmc
 
-1. Donwload plugin
+1. Donwnload plugin
 2. Go to: System/Settings/Addons/Add from Zip and choose the downloaded package
 3. Navigate to: Videos/Add-ons/Wilmaa Live-TV
 
