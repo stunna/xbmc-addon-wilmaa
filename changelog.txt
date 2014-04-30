@@ -1,0 +1,7 @@
+version 0.1.0
+
+  * initial release
+
+    - 68 TV-Channels
+    - TV-Station logos
+    - Todo: sort function, easy zapping, epg live information
