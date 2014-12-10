@@ -86,7 +86,7 @@ add_video_item('%s/%s.m3u8' % (base_url, 'nickcc'),{ 'title': 'nickCC' + ' - ' +
 add_video_item('%s/%s.m3u8' % (base_url, 'superrtl'),{ 'title': 'SuperRTL' + ' - ' + get_prgtitle('Super RTL:', prgtitle) }, '%s/media/superrtl.png' % _resdir)
 add_video_item('%s/%s.m3u8' % (base_url, 'viva'),{ 'title': 'Viva' + ' - ' + get_prgtitle('VIVA:', prgtitle) }, '%s/media/viva.png' % _resdir)
 add_video_item('%s/%s.m3u8' % (base_url, 'n24'),{ 'title': 'N24' + ' - ' + get_prgtitle('N24', prgtitle_spielfilm) }, '%s/media/n24.png' % _resdir)
-add_video_item('%s/%s.m3u8' % (base_url, 'ntv'),{ 'title': 'NTV' + ' - ' + get_prgtitle('n-tv', prgtitle_spielfilm) }, '%s/media/ntv.png' % _resdir)
+add_video_item('%s/%s.m3u8' % (base_url, 'n-tv'),{ 'title': 'NTV' + ' - ' + get_prgtitle('n-tv', prgtitle_spielfilm) }, '%s/media/ntv.png' % _resdir)
 add_video_item('%s/%s.m3u8' % (base_url, 'kika'),{ 'title': 'KIKA' + ' - ' + get_prgtitle('KiKa:', prgtitle) }, '%s/media/kika.png' % _resdir)
 add_video_item('%s/%s.m3u8' % (base_url, 'sf1'),{ 'title': 'SRF1' + ' - ' + get_prgtitle('SRF 1:', prgtitle) }, '%s/media/srf1.png' % _resdir)
 add_video_item('%s/%s.m3u8' % (base_url, 'sf2'),{ 'title': 'SRF2' + ' - ' + get_prgtitle('SRF zwei:', prgtitle) }, '%s/media/srf2.png' % _resdir)
